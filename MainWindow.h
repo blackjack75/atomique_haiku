@@ -1,5 +1,5 @@
 /*
- * Copyright 2024, My Name <my@email.address>
+ * Copyright 2024, Santiago Lema <santiago@lema.org>
  * All rights reserved. Distributed under the terms of the MIT license.
  */
 #ifndef MAINWINDOW_H
