@@ -1,0 +1,34 @@
+[
+ {
+  "directory": "/boot/home/repos/atomique_haiku",
+  "arguments": [
+   "g++",
+   "-c",
+   "App.cpp",
+   "-iquote./",
+   "-iquote./",
+   "-iquoteobjects.x86_64-cc13-release/",
+   "-isystem/boot/system/develop/headers/private/interface",
+   "-O3",
+   "-o",
+   "objects.x86_64-cc13-release/App.o"
+  ],
+  "file": "App.cpp"
+ },
+ {
+  "directory": "/boot/home/repos/atomique_haiku",
+  "arguments": [
+   "g++",
+   "-c",
+   "MainWindow.cpp",
+   "-iquote./",
+   "-iquote./",
+   "-iquoteobjects.x86_64-cc13-release/",
+   "-isystem/boot/system/develop/headers/private/interface",
+   "-O3",
+   "-o",
+   "objects.x86_64-cc13-release/MainWindow.o"
+  ],
+  "file": "MainWindow.cpp"
+ }
+]

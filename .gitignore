@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+objects.x86_64-cc13-release/*
+build/*
+build_debug/Atomique_debug/*
